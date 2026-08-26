@@ -1,200 +1,237 @@
 <title>Ruta del Finde</title>
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Work+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
 
   :root{
-    --bg: #EDEFE7;
-    --bg-raised: #F7F8F2;
-    --ink: #182420;
-    --ink-soft: #4B5750;
-    --line: #D4D8CB;
-    --teal: #1B3B3E;
-    --teal-soft: #E4EBE9;
-    --coral: #E0662E;
-    --coral-soft: #FBE4D6;
-    --gold: #B98A2C;
-    --gold-soft: #F3E8CE;
-    --ok: #3C7A52;
-    --ok-soft: #E1EFE3;
-    --warn: #B4432B;
-    --warn-soft: #F8E1DA;
-    --shadow: 0 1px 2px rgba(24,36,32,0.06), 0 8px 24px -12px rgba(24,36,32,0.18);
+    --bg: #F6F3EC;
+    --bg-raised: #FBF9F4;
+    --ink: #38352E;
+    --ink-soft: #837C6D;
+    --ink-faint: #ACA595;
+    --line: #DDD5C2;
+    --line-strong: #C7BCA3;
+    --accent: #D85A26;
+    --accent-ink: #B8481A;
+    --accent-soft: #F5DCC6;
+    --seal: #C23B24;
+    --ok: #5B7A54;
+    --ok-soft: #E4E9DD;
+    --warn: #B8341F;
+    --warn-soft: #F4DCD3;
+    --shadow: 0 1px 0 rgba(56,53,46,0.05);
+    --dot: rgba(56,53,46,0.09);
   }
 
   @media (prefers-color-scheme: dark){
     :root:not([data-theme="light"]){
-      --bg: #12181A;
-      --bg-raised: #1B2325;
-      --ink: #EDEFE7;
-      --ink-soft: #A9B2AC;
-      --line: #2C3538;
-      --teal: #8FC5C5;
-      --teal-soft: #1E3235;
-      --coral: #F0895B;
-      --coral-soft: #33241C;
-      --gold: #E0B759;
-      --gold-soft: #332B18;
-      --ok: #78C695;
-      --ok-soft: #1C2E22;
-      --warn: #F0917C;
-      --warn-soft: #362019;
-      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+      --bg: #201D18;
+      --bg-raised: #2A2620;
+      --ink: #EDE7DA;
+      --ink-soft: #A79E8B;
+      --ink-faint: #6E6656;
+      --line: #3C362B;
+      --line-strong: #4E4636;
+      --accent: #E58248;
+      --accent-ink: #F2985E;
+      --accent-soft: #3D2A1C;
+      --seal: #E06A3E;
+      --ok: #93AC87;
+      --ok-soft: #2C3427;
+      --warn: #DE8C77;
+      --warn-soft: #3B2620;
+      --shadow: 0 1px 0 rgba(0,0,0,0.3);
+      --dot: rgba(237,231,218,0.07);
     }
   }
   :root[data-theme="dark"]{
-    --bg: #12181A;
-    --bg-raised: #1B2325;
-    --ink: #EDEFE7;
-    --ink-soft: #A9B2AC;
-    --line: #2C3538;
-    --teal: #8FC5C5;
-    --teal-soft: #1E3235;
-    --coral: #F0895B;
-    --coral-soft: #33241C;
-    --gold: #E0B759;
-    --gold-soft: #332B18;
-    --ok: #78C695;
-    --ok-soft: #1C2E22;
-    --warn: #F0917C;
-    --warn-soft: #362019;
-    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+    --bg: #201D18;
+    --bg-raised: #2A2620;
+    --ink: #EDE7DA;
+    --ink-soft: #A79E8B;
+    --ink-faint: #6E6656;
+    --line: #3C362B;
+    --line-strong: #4E4636;
+    --accent: #E58248;
+    --accent-ink: #F2985E;
+    --accent-soft: #3D2A1C;
+    --seal: #E06A3E;
+    --ok: #93AC87;
+    --ok-soft: #2C3427;
+    --warn: #DE8C77;
+    --warn-soft: #3B2620;
+    --shadow: 0 1px 0 rgba(0,0,0,0.3);
+    --dot: rgba(237,231,218,0.07);
   }
 
   *{ box-sizing: border-box; }
   html{ -webkit-text-size-adjust: 100%; }
   body{
     margin:0; background: var(--bg); color: var(--ink);
-    font-family: 'Work Sans', system-ui, sans-serif;
-    line-height: 1.5;
+    font-family: 'Zen Kaku Gothic New', 'Hiragino Sans', system-ui, sans-serif;
+    line-height: 1.6;
     padding: 0 0 4rem;
+    background-image: radial-gradient(var(--dot) 1px, transparent 1px);
+    background-size: 15px 15px;
   }
   @media (prefers-reduced-motion: reduce){ *{ animation: none !important; transition: none !important; } }
 
   a{ color: inherit; }
 
-  .wrap{ max-width: 640px; margin: 0 auto; padding: 0 1.1rem; }
+  .wrap{ max-width: 600px; margin: 0 auto; padding: 0 1.15rem; }
 
-  /* ---- Header / Km0 strip ---- */
-  header.hero{
-    background: var(--teal); color: var(--bg-raised);
-    padding: 2rem 0 1.6rem;
-    border-bottom: 1px solid var(--line);
+  /* ---- Header ---- */
+  header.hero{ padding: 2.2rem 0 1.4rem; }
+  .hero-top{
+    display:flex; align-items:flex-start; justify-content: space-between; gap: 1rem;
+    padding-bottom: 1.3rem; border-bottom: 1px solid var(--line-strong);
   }
-  :root[data-theme="dark"] header.hero, @media (prefers-color-scheme:dark){ header.hero{ } }
   .eyebrow{
     font-family: 'JetBrains Mono', monospace;
-    font-size: 0.72rem; letter-spacing: 0.09em; text-transform: uppercase;
-    opacity: 0.72; margin: 0 0 0.5rem;
+    font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--ink-soft); margin: 0 0 0.5rem;
   }
   h1{
-    font-family: 'Fraunces', Georgia, serif;
-    font-weight: 700; font-size: clamp(1.9rem, 7vw, 2.5rem);
-    margin: 0 0 0.35rem; text-wrap: balance; letter-spacing: -0.01em;
+    font-family: 'Shippori Mincho', 'Hiragino Mincho ProN', serif;
+    font-weight: 600; font-size: clamp(1.7rem, 7vw, 2.15rem);
+    margin: 0; text-wrap: balance; letter-spacing: 0.01em; color: var(--ink);
   }
-  .hero-sub{ font-size: 0.95rem; opacity: 0.82; margin: 0 0 1.1rem; max-width: 46ch; }
-
-  .km0{
-    display: flex; align-items: center; gap: 0.6rem;
-    background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.16);
-    border-radius: 10px; padding: 0.65rem 0.85rem;
-    font-family: 'JetBrains Mono', monospace; font-size: 0.82rem;
+  .seal{
+    flex: none; width: 46px; height: 46px; border-radius: 50%;
+    border: 1.5px solid var(--seal); position: relative; margin-top: 0.2rem;
   }
-  .km0 .dot{
-    width: 9px; height: 9px; border-radius: 50%; background: var(--coral);
-    flex: none; box-shadow: 0 0 0 4px rgba(224,102,46,0.25);
+  .seal::before{
+    content:""; position:absolute; inset: 6px; border-radius: 50%;
+    border: 1px solid var(--seal); opacity: 0.55;
   }
+  .hero-meta{
+    display:flex; flex-direction: column; gap: 0.5rem;
+    padding-top: 1.1rem; font-family: 'JetBrains Mono', monospace; font-size: 0.78rem; color: var(--ink-soft);
+  }
+  .hero-meta .row{ display:flex; gap: 0.55rem; align-items: baseline; }
+  .hero-meta .k{ color: var(--ink-faint); flex: none; width: 76px; }
+  .hero-meta .v{ color: var(--ink); }
+  .hero-meta .v em{ font-style: normal; color: var(--accent-ink); }
 
   /* ---- Section scaffolding ---- */
-  main{ padding-top: 1.6rem; }
-  section{ margin-bottom: 2.1rem; }
-  .section-head{
-    display: flex; align-items: baseline; justify-content: space-between;
-    gap: 0.6rem; margin-bottom: 0.75rem;
+  main{ padding-top: 0.4rem; }
+  section{ margin-bottom: 2.4rem; }
+
+  .day-head{
+    display:flex; align-items: baseline; gap: 0.85rem;
+    margin: 0 0 1.05rem;
   }
-  .day-label{
-    font-family: 'Fraunces', Georgia, serif; font-weight: 600;
-    font-size: 1.35rem; letter-spacing: -0.01em;
+  .day-num{
+    font-family: 'Shippori Mincho', serif; font-weight: 700;
+    font-size: 2.6rem; line-height: 1; color: var(--accent-ink);
+    font-variant-numeric: tabular-nums;
   }
-  .day-date{
-    font-family: 'JetBrains Mono', monospace; font-size: 0.75rem;
-    color: var(--ink-soft); font-variant-numeric: tabular-nums;
+  .day-info{ display:flex; flex-direction: column; gap: 0.15rem; }
+  .day-name{
+    font-family: 'Shippori Mincho', serif; font-weight: 600; font-size: 1.05rem;
+  }
+  .day-sub{
+    font-family: 'JetBrains Mono', monospace; font-size: 0.68rem; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--ink-faint);
   }
 
-  /* ---- Plan card ---- */
-  .card{
-    background: var(--bg-raised); border: 1px solid var(--line);
-    border-radius: 14px; padding: 1.1rem 1.15rem 1.2rem;
-    box-shadow: var(--shadow); margin-bottom: 0.85rem;
+  /* ---- Entry (paper-style item, no card box) ---- */
+  .entry{
+    padding: 1rem 0 1.15rem;
+    border-top: 1px dashed var(--line);
   }
-  .card.featured{ border-color: var(--teal); border-width: 1.5px; }
-  .card-top{ display:flex; justify-content: space-between; gap: 0.75rem; align-items:flex-start; }
-  .time{
-    font-family: 'JetBrains Mono', monospace; font-size: 0.78rem;
-    color: var(--teal); font-weight: 500; white-space: nowrap;
-    font-variant-numeric: tabular-nums; padding-top: 0.15rem;
+  .entry:first-of-type{ border-top: none; padding-top: 0; }
+  .entry-top{ display:flex; justify-content: space-between; gap: 0.75rem; align-items: baseline; }
+  .entry-mark{
+    display:inline-flex; align-items:center; gap: 0.4rem;
   }
-  :root[data-theme="dark"] .time, @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) .time{ color: var(--teal); } }
-  .plan-title{
-    font-family: 'Fraunces', Georgia, serif; font-weight: 600;
-    font-size: 1.12rem; margin: 0 0 0.3rem; text-wrap: balance;
+  .entry-mark .dot{
+    width: 7px; height: 7px; border-radius: 50%; background: var(--accent); flex: none;
   }
-  .plan-desc{ font-size: 0.92rem; color: var(--ink-soft); margin: 0 0 0.7rem; }
-  .tags{ display:flex; flex-wrap: wrap; gap: 0.4rem; }
-  .tag{
+  .entry-title{
+    font-family: 'Shippori Mincho', serif; font-weight: 600;
+    font-size: 1.12rem; margin: 0; color: var(--ink);
+  }
+  .entry-time{
+    font-family: 'JetBrains Mono', monospace; font-size: 0.76rem;
+    color: var(--accent-ink); white-space: nowrap; font-variant-numeric: tabular-nums;
+  }
+  .entry-desc{ font-size: 0.92rem; color: var(--ink-soft); margin: 0.45rem 0 0.7rem; max-width: 54ch; }
+  .entry-tags{ display:flex; flex-wrap: wrap; gap: 0.9rem 1rem; }
+  .etag{
     font-family: 'JetBrains Mono', monospace; font-size: 0.68rem;
-    letter-spacing: 0.02em; padding: 0.28rem 0.55rem; border-radius: 999px;
-    display: inline-flex; align-items: center; gap: 0.3rem;
+    color: var(--ink-faint); white-space: nowrap;
   }
-  .tag.free{ background: var(--ok-soft); color: var(--ok); }
-  .tag.dist{ background: var(--teal-soft); color: var(--teal); }
-  .tag.tip{ background: var(--gold-soft); color: var(--gold); }
-  .tag.atlas{ background: var(--coral-soft); color: var(--coral); }
+  .etag::before{ content: "["; color: var(--line-strong); }
+  .etag::after{ content: "]"; color: var(--line-strong); }
+  .etag.free{ color: var(--ok); }
+  .etag.accent{ color: var(--accent-ink); }
 
-  /* ---- Alert banner ---- */
+  /* ---- Alert strip ---- */
   .alert{
-    display: flex; gap: 0.65rem; align-items: flex-start;
-    background: var(--ok-soft); border: 1px solid color-mix(in srgb, var(--ok) 35%, transparent);
-    border-radius: 12px; padding: 0.85rem 0.95rem; font-size: 0.88rem;
+    display: flex; gap: 0.7rem; align-items: flex-start;
+    border: 1px solid var(--line-strong); border-left: 3px solid var(--ok);
+    background: var(--bg-raised);
+    padding: 0.8rem 0.95rem; font-size: 0.86rem; margin-bottom: 0.3rem;
   }
-  .alert.warn{ background: var(--warn-soft); border-color: color-mix(in srgb, var(--warn) 35%, transparent); }
-  .alert .mark{ font-family:'JetBrains Mono',monospace; font-weight:600; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.06em; color: var(--ok); flex: none; padding-top: 0.1rem; }
+  .alert.warn{ border-left-color: var(--warn); }
+  .alert .mark{
+    font-family:'JetBrains Mono',monospace; font-weight:600; font-size:0.68rem; text-transform:uppercase;
+    letter-spacing:0.08em; color: var(--ok); flex: none; padding-top: 0.15rem;
+  }
   .alert.warn .mark{ color: var(--warn); }
   .alert p{ margin:0; color: var(--ink); }
 
-  /* ---- Atlas Obscura callout ---- */
-  .atlas-box{
-    background: var(--coral-soft); border: 1px solid color-mix(in srgb, var(--coral) 30%, transparent);
-    border-radius: 14px; padding: 1.1rem 1.15rem; box-shadow: var(--shadow);
+  /* ---- Radar box ---- */
+  .radar{
+    border: 1px solid var(--line-strong); background: var(--bg-raised);
+    padding: 1.1rem 1.15rem 1.2rem;
   }
-  .atlas-box .kicker{
-    font-family:'JetBrains Mono',monospace; font-size:0.68rem; letter-spacing:0.08em;
-    text-transform: uppercase; color: var(--coral); margin: 0 0 0.4rem;
+  .radar .kicker{
+    display:flex; align-items:center; gap:0.5rem;
+    font-family:'JetBrains Mono',monospace; font-size:0.68rem; letter-spacing:0.1em;
+    text-transform: uppercase; color: var(--accent-ink); margin: 0 0 0.8rem;
   }
+  .radar .kicker::before{
+    content:""; width:6px; height:6px; border-radius:50%; background: var(--accent); display:inline-block;
+  }
+  .radar-item{ font-size: 0.88rem; color: var(--ink-soft); margin: 0 0 0.75rem; }
+  .radar-item:last-child{ margin-bottom: 0; }
+  .radar-item strong{ color: var(--ink); font-weight: 600; }
 
   /* ---- Bedtime strip ---- */
   .bedtime{
-    display:flex; align-items:center; gap:0.55rem;
-    font-family:'JetBrains Mono',monospace; font-size: 0.75rem; color: var(--ink-soft);
-    border-top: 1px dashed var(--line); border-bottom: 1px dashed var(--line);
-    padding: 0.55rem 0.1rem; margin: 0.9rem 0 0;
+    display:flex; align-items:baseline; gap:0.5rem;
+    font-family:'JetBrains Mono',monospace; font-size: 0.72rem; color: var(--ink-faint);
+    margin: 0.3rem 0 0; padding-top: 0.9rem; border-top: 1px solid var(--line);
   }
+  .bedtime .lbl{ color: var(--accent-ink); }
 
   footer{
-    margin-top: 2.4rem; padding-top: 1.3rem; border-top: 1px solid var(--line);
-    font-size: 0.82rem; color: var(--ink-soft);
+    margin-top: 2.6rem; padding-top: 1.4rem; border-top: 1px solid var(--line-strong);
+    font-size: 0.8rem; color: var(--ink-soft);
   }
-  footer .rules{ font-family:'JetBrains Mono', monospace; font-size: 0.7rem; line-height: 1.7; }
-  footer a{ color: var(--teal); text-decoration: underline; text-underline-offset: 2px; }
+  footer .rules{
+    font-family:'JetBrains Mono', monospace; font-size: 0.68rem; line-height: 1.85;
+    color: var(--ink-faint); margin-top: 0.9rem;
+  }
+  footer a{ color: var(--accent-ink); text-decoration: underline; text-underline-offset: 2px; }
 </style>
 
 <header class="hero">
   <div class="wrap">
-    <p class="eyebrow">Ruta de fin de semana · 29–30 agosto 2026</p>
-    <h1>Este finde, cerca de casa</h1>
-    <p class="hero-sub">David, Ainhoa y Aniol (5 años, con escayola esta semana → planes de poco caminar, terreno llano). Finde libre, sin planes que bloqueen.</p>
-    <div class="km0"><span class="dot"></span> Km 0 — C/ Isabel Ana, Madrid</div>
-    <div class="km0" style="margin-top:0.5rem;">☀️ Sáb 16–30°C · Dom 18–32°C — despejado, sin lluvia. Calor fuerte al mediodía: planes al aire libre a primera/última hora.</div>
+    <div class="hero-top">
+      <div>
+        <p class="eyebrow">Ruta de fin de semana · Semana 35</p>
+        <h1>Este finde, cerca de casa</h1>
+      </div>
+      <div class="seal" aria-hidden="true"></div>
+    </div>
+    <div class="hero-meta">
+      <div class="row"><span class="k">quién</span><span class="v">David, Ainhoa y Aniol <em>(5 años, con escayola)</em></span></div>
+      <div class="row"><span class="k">km 0</span><span class="v">C/ Isabel Ana, Madrid</span></div>
+      <div class="row"><span class="k">tiempo</span><span class="v">Sáb <em>16–30°C</em> · Dom <em>18–32°C</em> · despejado, sin lluvia</span></div>
+      <div class="row"><span class="k">estado</span><span class="v">Finde libre — sin planes que bloqueen</span></div>
+    </div>
   </div>
 </header>
 
@@ -208,85 +245,93 @@
   </section>
 
   <section>
-    <div class="section-head">
-      <span class="day-label">Sábado</span>
-      <span class="day-date">29 ago</span>
+    <div class="day-head">
+      <span class="day-num">29</span>
+      <div class="day-info">
+        <span class="day-name">Sábado</span>
+        <span class="day-sub">Agosto · calor a primera hora, mejora al atardecer</span>
+      </div>
     </div>
 
-    <div class="card featured">
-      <div class="card-top">
-        <div>
-          <p class="plan-title">Templo de Debod</p>
+    <div class="entry">
+      <div class="entry-top">
+        <div class="entry-mark">
+          <span class="dot"></span>
+          <p class="entry-title">Templo de Debod</p>
         </div>
-        <span class="time">19:00–19:50</span>
+        <span class="entry-time">19:00–19:50</span>
       </div>
-      <p class="plan-desc">Templo egipcio del s. II a.C. trasladado piedra a piedra a Madrid en 1968, con estanque y mirador sobre la Casa de Campo. Césped y explanada llana — cómodo para ir con carrito por la escayola. Con 30°C previstos, vamos a última hora de la tarde cuando ya afloja el calor, y volvemos a tiempo para el baño y la cena.</p>
-      <div class="tags">
-        <span class="tag free">● gratis</span>
-        <span class="tag dist">6 min en coche · Km 0</span>
-        <span class="tag atlas">📍 pick Atlas Obscura de la semana</span>
-        <span class="tag tip">☀️ ir a última hora, hay sombra junto al estanque</span>
-      </div>
-    </div>
-
-    <div class="card">
-      <div class="card-top">
-        <p class="plan-title">Merienda-helado en Parque del Oeste</p>
-        <span class="time">19:15</span>
-      </div>
-      <p class="plan-desc">A dos pasos del templo, zona de bancos y sombra para sentarse tranquilos antes de volver a casa. Buen momento para un helado en familia — llevad agua, aún hará calor.</p>
-      <div class="tags">
-        <span class="tag free">● gratis</span>
-        <span class="tag tip">accesible / poco caminar</span>
+      <p class="entry-desc">Templo egipcio del s. II a.C. trasladado piedra a piedra a Madrid en 1968, con estanque y mirador sobre la Casa de Campo. Césped y explanada llana — cómodo para ir con carrito por la escayola. Con 30°C previstos, vamos a última hora de la tarde cuando ya afloja el calor, y volvemos a tiempo para el baño y la cena.</p>
+      <div class="entry-tags">
+        <span class="etag free">gratis</span>
+        <span class="etag">6 min en coche · Km 0</span>
+        <span class="etag accent">pick Atlas Obscura de la semana</span>
+        <span class="etag">ir a última hora, hay sombra junto al estanque</span>
       </div>
     </div>
 
-    <div class="bedtime">🌙 Vuelta a casa ≈ 20:15 → baño y cena rápidos, cama sobre las 21:00</div>
+    <div class="entry">
+      <div class="entry-top">
+        <p class="entry-title">Merienda-helado en Parque del Oeste</p>
+        <span class="entry-time">19:50</span>
+      </div>
+      <p class="entry-desc">A dos pasos del templo, zona de bancos y sombra para sentarse tranquilos antes de volver a casa. Buen momento para un helado en familia — llevad agua, aún hará calor.</p>
+      <div class="entry-tags">
+        <span class="etag free">gratis</span>
+        <span class="etag">accesible / poco caminar</span>
+      </div>
+    </div>
+
+    <div class="bedtime"><span class="lbl">🌙 vuelta a casa</span> ≈ 20:15 → baño y cena rápidos, cama sobre las 21:00</div>
   </section>
 
   <section>
-    <div class="section-head">
-      <span class="day-label">Domingo</span>
-      <span class="day-date">30 ago</span>
+    <div class="day-head">
+      <span class="day-num">30</span>
+      <div class="day-info">
+        <span class="day-name">Domingo</span>
+        <span class="day-sub">Agosto · mañana temprano, siesta a mediodía</span>
+      </div>
     </div>
 
-    <div class="card featured">
-      <div class="card-top">
-        <div>
-          <p class="plan-title">Real Mercado del Siglo de Oro</p>
+    <div class="entry">
+      <div class="entry-top">
+        <div class="entry-mark">
+          <span class="dot"></span>
+          <p class="entry-title">Real Mercado del Siglo de Oro</p>
         </div>
-        <span class="time">10:30–13:00</span>
+        <span class="entry-time">10:30–13:00</span>
       </div>
-      <p class="plan-desc">Navalcarnero recrea el Madrid del s. XVII por un día: puestos de artesanía (cuero, cerámica, textil), teatro y música barroca, procesiones. No es solo plan de niños — el teatro de calle y la recreación histórica los disfrutáis los tres juntos, y Aniol tiene los talleres infantiles de época (caligrafía, esgrima) como extra. Con 32°C previstos, vamos a primera hora y volvemos antes de que apriete el sol; suelo de plaza y calles empedradas — lleva carrito o silla para la escayola.</p>
-      <div class="tags">
-        <span class="tag free">● entrada libre</span>
-        <span class="tag dist">🚗 35 min · 32 km</span>
-        <span class="tag tip">plan para los tres, no solo infantil</span>
-        <span class="tag tip">☀️ ir a primera hora</span>
-      </div>
-    </div>
-
-    <div class="card">
-      <div class="card-top">
-        <p class="plan-title">Plan B si aprieta el calor o la escayola pide parar</p>
-        <span class="time">alternativa</span>
-      </div>
-      <p class="plan-desc">Andén 0 — Estación de Chamberí, la estación de metro fantasma de 1919 restaurada como museo. Sábado 10:00–14:00 y 16:00–20:00, domingo 10:00–14:00. Recorrido corto y cubierto, ideal si el domingo pide algo más tranquilo.</p>
-      <div class="tags">
-        <span class="tag free">● gratis</span>
-        <span class="tag dist">Glorieta de Chamberí · Km 0</span>
+      <p class="entry-desc">Navalcarnero recrea el Madrid del s. XVII por un día: puestos de artesanía (cuero, cerámica, textil), teatro y música barroca, procesiones. No es solo plan de niños — el teatro de calle y la recreación histórica los disfrutáis los tres juntos, y Aniol tiene los talleres infantiles de época (caligrafía, esgrima) como extra. Con 32°C previstos, vamos a primera hora y volvemos antes de que apriete el sol; suelo de plaza y calles empedradas — lleva carrito o silla para la escayola.</p>
+      <div class="entry-tags">
+        <span class="etag free">entrada libre</span>
+        <span class="etag">🚗 35 min · 32 km</span>
+        <span class="etag accent">plan para los tres, no solo infantil</span>
+        <span class="etag">ir a primera hora</span>
       </div>
     </div>
 
-    <div class="bedtime">🌙 Comida y siesta en casa desde ~13:30 — tarde libre, sin plan que choque con dormir a las 20:00–21:00</div>
+    <div class="entry">
+      <div class="entry-top">
+        <p class="entry-title">Plan B: calor o escayola</p>
+        <span class="entry-time">alternativa</span>
+      </div>
+      <p class="entry-desc">Si aprieta el calor o Aniol pide parar: Andén 0 — Estación de Chamberí, la estación de metro fantasma de 1919 restaurada como museo. Sábado 10:00–14:00 y 16:00–20:00, domingo 10:00–14:00. Recorrido corto y cubierto.</p>
+      <div class="entry-tags">
+        <span class="etag free">gratis</span>
+        <span class="etag">Glorieta de Chamberí · Km 0</span>
+      </div>
+    </div>
+
+    <div class="bedtime"><span class="lbl">🌙 comida y siesta</span> en casa desde ~13:30 — tarde libre, sin plan que choque con dormir a las 20:00–21:00</div>
   </section>
 
   <section>
-    <div class="atlas-box">
+    <div class="radar">
       <p class="kicker">En el radar — no urgente</p>
-      <p class="plan-desc" style="margin-bottom:0.4rem;"><strong>Mercado Medieval de Fuenlabrada</strong> — 4–6 septiembre. Candidato firme para dentro de dos semanas si el finde siguiente sigue libre.</p>
-      <p class="plan-desc" style="margin-bottom:0.4rem;"><strong>Matadero Madrid y La Casa Encendida</strong> arrancan programación de otoño la semana del 1 de septiembre (cine, exposiciones, "Gran Convoy" en familia en Matadero el 5 sept.) — en agosto están en horario reducido, por eso no entran esta semana. Los vigilo para dentro de dos semanas.</p>
-      <p class="plan-desc" style="margin-bottom:0;"><strong>Teatros del Canal</strong> presenta su temporada 2026 también a partir de septiembre — en cuanto haya cartelera familiar concreta, la meto en una ruta.</p>
+      <p class="radar-item"><strong>Mercado Medieval de Fuenlabrada</strong> — 4–6 septiembre. Candidato firme para dentro de dos semanas si el finde siguiente sigue libre.</p>
+      <p class="radar-item"><strong>Matadero Madrid y La Casa Encendida</strong> arrancan programación de otoño la semana del 1 de septiembre (cine, exposiciones, "Gran Convoy" en familia en Matadero el 5 sept.) — en agosto están en horario reducido, por eso no entran esta semana. Los vigilo para dentro de dos semanas.</p>
+      <p class="radar-item"><strong>Teatros del Canal</strong> presenta su temporada 2026 también a partir de septiembre — en cuanto haya cartelera familiar concreta, la meto en una ruta.</p>
     </div>
   </section>
 
