@@ -15,7 +15,7 @@ Marca aquí los ya visitados para no repetir:
 
 - [x] Templo de Debod — templo egipcio trasladado, gratis, accesible — **visitado 29 ago 2026**
 - [ ] Palacio de Cristal (Retiro) — invernadero de cristal, gratis
-- [ ] Chamberí Ghost Station (Andén 0) — estación de metro fantasma de 1919, gratis, sáb/dom
+- [x] Chamberí Ghost Station (Andén 0) — estación de metro fantasma de 1919, gratis, sáb/dom — **programado 6 sept 2026** (reserva en giglon.com)
 - [ ] Atocha Station Tropical Garden — jardín tropical dentro de la estación, gratis
 - [ ] Fountain of the Fallen Angel (Retiro) — única fuente pública dedicada al diablo
 - [ ] Real Jardín Botánico — jardín bicentenario, entrada ~5 €
@@ -31,11 +31,11 @@ Fuente: [Atlas Obscura — Madrid](https://www.atlasobscura.com/things-to-do/mad
 ## Mercados medievales / históricos cerca (< 1h30)
 
 - **Real Mercado del Siglo de Oro — Navalcarnero** (32 km, ~35 min): anual a finales de agosto. 2026: 28–30 agosto. Entrada libre.
-- **Mercado Medieval de Fuenlabrada** (Plaza de España): 4–6 septiembre 2026. Entrada libre.
+- **Mercado Medieval de Fuenlabrada** (Plaza de España): 4–6 septiembre 2026. Entrada libre. ~14 km de Km 0.
 - **Mercado Goyesco — Fiestas del Motín de Aranjuez**: 3–6 septiembre 2026.
 - **VI Feria Medieval "El Caballero de Ambite"**: 28–29 agosto 2026.
 - **Mercado Medieval de Bustarviejo**: 28–29 agosto 2026.
-- **Feria Medieval de Buitrago de Lozoya**: 3–6 septiembre 2026.
+- **XXIV Feria Medieval de Buitrago del Lozoya**: 3–6 septiembre 2026 (jue 18:00, vie-sáb desde 11:00, dom todo el día). ~1h10 en coche (76 km), dentro de radio. No usada en la edición 5-6 sept 2026 por calor extremo — candidata para el año que viene o si repite fuera de temporada de calor.
 - Calendario completo, revisar cada semana: [agendamedieval.com/madrid](https://agendamedieval.com/madrid/) y [demercadosmedievales.info](https://demercadosmedievales.info/ferias-y-mercados-medievales-en-madrid-2026/)
 
 ## Ferias de artesanía / producto de cercanía
@@ -44,6 +44,8 @@ Fuente: [Atlas Obscura — Madrid](https://www.atlasobscura.com/things-to-do/mad
 - Calendario ferial oficial de la Comunidad de Madrid (revisar cada mes): [comunidad.madrid/comercio/calendario-actividades-feriales-2026](https://www.comunidad.madrid/comercio/calendario-actividades-feriales-2026)
 
 ## Cultura alternativa / adultos adaptables a peques (perfil medio-alto)
+
+- **Gran Convoy** (Matadero Madrid) — espacio de juego libre y espontáneo con materiales (cubos, palos, cuerdas, telas, troncos), sin instrucciones. Gratis, a partir de 2 años, aforo limitado con reserva previa en la tienda de Madrid Destino (vuela rápido — mirar de reservar el mismo día que abran las entradas). Usado en la edición 5-6 sept 2026 (sábado, pase 11:30h). Buen recurso a repetir cuando vuelva a programarse.
 
 David y Ainhoa tienen un perfil cultural medio-alto: no todo tiene que ser "para niños", buscan compartir con Aniol cosas que a ellos también les gustan (teatro, exposiciones, música, mercados de autor). Revisar programación de:
 
@@ -65,6 +67,7 @@ David y Ainhoa tienen un perfil cultural medio-alto: no todo tiene que ser "para
 
 ## Notas de contexto
 
-- 26 ago 2026: Aniol con escayola → priorizar planes de suelo llano, poco caminar, posibilidad de carrito/silla. Revisar en cada edición si sigue aplicando (probablemente ya no aplique pasadas unas semanas — confirmar con David).
+- 26 ago 2026: Aniol con escayola → priorizar planes de suelo llano, poco caminar, posibilidad de carrito/silla. A 3 sept 2026 no hay confirmación de David de que se haya quitado — pendiente de confirmar, no se ha vuelto a mencionar en la planificación de la edición 5-6 sept 2026 (se asumió resuelto por defecto).
 - Consultar siempre la previsión del tiempo de la semana: si hay lluvia o calor extremo, priorizar planes de interior o en horario de mañana/atardecer.
+- 5-6 sept 2026: calor extremo (36-37°C), sin lluvia — se priorizaron planes de interior/nave cubierta (Gran Convoy, Andén 0) y tarde-noche con sombra (Teatro de Títeres del Retiro).
 - Nombres: David, Ainhoa, Aniol (5 años).
