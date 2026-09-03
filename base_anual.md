@@ -16,10 +16,10 @@ Marca aquí los ya visitados para no repetir:
 
 - [x] Templo de Debod — templo egipcio trasladado, gratis, accesible — **visitado 29 ago 2026**
 - [ ] Palacio de Cristal (Retiro) — invernadero de cristal, gratis
-- [x] Chamberí Ghost Station (Andén 0) — estación de metro fantasma de 1919, gratis, sáb/dom — **programado 6 sept 2026** (reserva en giglon.com)
+- [x] Chamberí Ghost Station (Andén 0) — estación de metro fantasma de 1919, gratis, sáb/dom — **visitado en la edición 29-30 ago 2026**
 - [ ] Atocha Station Tropical Garden — jardín tropical dentro de la estación, gratis
 - [ ] Fountain of the Fallen Angel (Retiro) — única fuente pública dedicada al diablo
-- [ ] Real Jardín Botánico — jardín bicentenario, entrada ~5 €
+- [x] Real Jardín Botánico — jardín bicentenario, entrada 4€ adultos/gratis menores de 18 — **programado 6 sept 2026**
 - [ ] San Antonio de los Alemanes — iglesia con frescos, "capilla Sixtina de Madrid"
 - [ ] Dolmen de Dalí — monumento urbano diseñado por Dalí
 - [ ] Kiosko de Horchata Miguel y José — último kiosco tradicional de horchata
@@ -70,5 +70,5 @@ David y Ainhoa tienen un perfil cultural medio-alto: no todo tiene que ser "para
 
 - 3 sept 2026: David confirma que Aniol ya no lleva escayola — no hay restricción de movilidad activa. (Historial: llevó escayola desde el 26 ago 2026.)
 - Consultar siempre la previsión del tiempo de la semana: si hay lluvia o calor extremo, priorizar planes de interior o en horario de mañana/atardecer.
-- 5-6 sept 2026: calor extremo (36-37°C), sin lluvia — se priorizaron planes de interior/nave cubierta (Gran Convoy, Andén 0) y tarde-noche con sombra (Teatro de Títeres del Retiro).
+- 5-6 sept 2026: David confirma sin planes fijados y finde en Madrid (Km 0 de siempre), pero pide no repetir Andén 0 (ya usado en la edición 29-30 ago). Calor extremo (36-37°C), sin lluvia — se priorizaron Gran Convoy (nave cubierta) y Real Jardín Botánico a primera hora, con Teatro de Títeres del Retiro a la sombra por la tarde.
 - Nombres: David, Ainhoa, Aniol (5 años).
