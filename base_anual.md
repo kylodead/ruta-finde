@@ -8,6 +8,7 @@ Reglas fijas:
 - Un punto de Atlas Obscura por semana (ver lista abajo, ir tachando visitados).
 - Horario compatible con dormir 20:00–21:00 (Aniol).
 - Avisar con antelación si un plan requiere reserva y tiene aforo/entradas limitadas.
+- Cada plan debe incluir un enlace real a la página oficial del evento/espacio (más info o compra de entradas), no solo el nombre.
 
 ## Puntos Atlas Obscura en Madrid (rotación semanal)
 
@@ -67,7 +68,7 @@ David y Ainhoa tienen un perfil cultural medio-alto: no todo tiene que ser "para
 
 ## Notas de contexto
 
-- 26 ago 2026: Aniol con escayola → priorizar planes de suelo llano, poco caminar, posibilidad de carrito/silla. A 3 sept 2026 no hay confirmación de David de que se haya quitado — pendiente de confirmar, no se ha vuelto a mencionar en la planificación de la edición 5-6 sept 2026 (se asumió resuelto por defecto).
+- 3 sept 2026: David confirma que Aniol ya no lleva escayola — no hay restricción de movilidad activa. (Historial: llevó escayola desde el 26 ago 2026.)
 - Consultar siempre la previsión del tiempo de la semana: si hay lluvia o calor extremo, priorizar planes de interior o en horario de mañana/atardecer.
 - 5-6 sept 2026: calor extremo (36-37°C), sin lluvia — se priorizaron planes de interior/nave cubierta (Gran Convoy, Andén 0) y tarde-noche con sombra (Teatro de Títeres del Retiro).
 - Nombres: David, Ainhoa, Aniol (5 años).
