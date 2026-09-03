@@ -10,6 +10,10 @@ Reglas fijas:
 - Horario compatible con dormir 20:00–21:00 (Aniol).
 - Avisar con antelación si un plan requiere reserva y tiene aforo/entradas limitadas.
 - Cada plan debe incluir un enlace real a la página oficial del evento/espacio (más info o compra de entradas), no solo el nombre. **Verificar siempre que el enlace funciona y que el evento es real y vigente para el año/fecha concretos (páginas de venta de entradas pueden mostrar ediciones antiguas ya finalizadas con el mismo nombre).**
+- **Edad de Aniol (5 años) — filtro estricto**: descarta directamente cualquier plan pensado para una franja de edad inferior (p. ej. "teatro de bebés 6 meses-4 años"), aunque sea barato o gratis. No lo menciones ni en el radar como descartado — simplemente no aparece en la investigación. Un plan "a partir de X años" (sin techo) es válido siempre que X ≤ 5.
+- **"En el radar" es solo para semanas futuras** — nunca metas ahí un plan que ocurra este mismo fin de semana (aunque se haya descartado por otro motivo, como el calor). Si un plan de esta semana se descarta, simplemente no se incluye en la ruta; no hace falta justificarlo en el radar. El radar es una lista corta (máx. 2-3 items) de cosas que empiezan a estar en el horizonte para dentro de 1-3 semanas.
+- **No publiques en la página** la lista interna de próximos puntos de Atlas Obscura ni cuáles ya están visitados/descartados — ese seguimiento vive solo en este archivo (base_anual.md), no en index.html.
+- **No incluyas el bloque de "reglas fijas" en el pie de la página publicada** (index.html) — esas reglas son para uso interno de este archivo, no para mostrárselas cada semana a David y Ainhoa. El pie solo lleva la fecha de la próxima edición.
 
 ## Puntos Atlas Obscura en Madrid (rotación semanal)
 
