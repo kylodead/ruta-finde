@@ -5,10 +5,11 @@ Lista viva de candidatos para la ruta semanal. Se repasa y refresca cada jueves;
 Reglas fijas:
 - Presupuesto: ≤ 5 € por entrada, prioridad absoluta a gratis.
 - Radio: máx. 1h30 en coche desde Km 0.
-- Un punto de Atlas Obscura por semana (ver lista abajo, ir tachando visitados).
+- Un punto de Atlas Obscura por semana (ver lista abajo, ir tachando visitados). **No repetir puntos curiosos/históricos (Atlas Obscura, lugares únicos) de ediciones recientes.**
+- **Los talleres/actividades tipo "Gran Convoy" SÍ se pueden repetir** si vuelven a programarse pasados 3-6 meses — no aplica la regla de no repetición a este tipo de planes recurrentes.
 - Horario compatible con dormir 20:00–21:00 (Aniol).
 - Avisar con antelación si un plan requiere reserva y tiene aforo/entradas limitadas.
-- Cada plan debe incluir un enlace real a la página oficial del evento/espacio (más info o compra de entradas), no solo el nombre.
+- Cada plan debe incluir un enlace real a la página oficial del evento/espacio (más info o compra de entradas), no solo el nombre. **Verificar siempre que el enlace funciona y que el evento es real y vigente para el año/fecha concretos (páginas de venta de entradas pueden mostrar ediciones antiguas ya finalizadas con el mismo nombre).**
 
 ## Puntos Atlas Obscura en Madrid (rotación semanal)
 
@@ -46,7 +47,7 @@ Fuente: [Atlas Obscura — Madrid](https://www.atlasobscura.com/things-to-do/mad
 
 ## Cultura alternativa / adultos adaptables a peques (perfil medio-alto)
 
-- **Gran Convoy** (Matadero Madrid) — espacio de juego libre y espontáneo con materiales (cubos, palos, cuerdas, telas, troncos), sin instrucciones. Gratis, a partir de 2 años, aforo limitado con reserva previa en la tienda de Madrid Destino (vuela rápido — mirar de reservar el mismo día que abran las entradas). Usado en la edición 5-6 sept 2026 (sábado, pase 11:30h). Buen recurso a repetir cuando vuelva a programarse.
+- **Gran Convoy** (Matadero Madrid) — espacio de juego libre y espontáneo con materiales (cubos, palos, cuerdas, telas, troncos), sin instrucciones. Gratis, a partir de 2 años, aforo limitado (entradas gratis, máx. 4/persona). Reserva vía plataforma Madrid Destino — el enlace de venta cambia cada edición, comprobar siempre en https://www.mataderomadrid.org/programacion/gran-convoy que no muestre "evento finalizado". Usado en la edición 5-6 sept 2026 (sábado, pase 11:30h). Es un taller recurrente: SÍ se puede repetir dentro de 3-6 meses si vuelve a programarse.
 
 David y Ainhoa tienen un perfil cultural medio-alto: no todo tiene que ser "para niños", buscan compartir con Aniol cosas que a ellos también les gustan (teatro, exposiciones, música, mercados de autor). Revisar programación de:
 
@@ -70,5 +71,6 @@ David y Ainhoa tienen un perfil cultural medio-alto: no todo tiene que ser "para
 
 - 3 sept 2026: David confirma que Aniol ya no lleva escayola — no hay restricción de movilidad activa. (Historial: llevó escayola desde el 26 ago 2026.)
 - Consultar siempre la previsión del tiempo de la semana: si hay lluvia o calor extremo, priorizar planes de interior o en horario de mañana/atardecer.
-- 5-6 sept 2026: David confirma sin planes fijados y finde en Madrid (Km 0 de siempre), pero pide no repetir Andén 0 (ya usado en la edición 29-30 ago). Calor extremo (36-37°C), sin lluvia — se priorizaron Gran Convoy (nave cubierta) y Real Jardín Botánico a primera hora, con Teatro de Títeres del Retiro a la sombra por la tarde.
+- 5-6 sept 2026: David confirma sin planes fijados y finde en Madrid (Km 0 de siempre), pero pide no repetir puntos curiosos/históricos como Andén 0 (ya usado en la edición 29-30 ago) — aclara que la regla de no repetir es solo para ese tipo de planes, no para talleres recurrentes como Gran Convoy, que sí puede repetirse cada 3-6 meses. Calor extremo (36-37°C), sin lluvia — se priorizaron Gran Convoy (nave cubierta, sábado) y Real Jardín Botánico + Teatro de Títeres del Retiro (domingo, misma zona, mañana).
+- Lección: el enlace de venta de entradas de Madrid Destino (tienda.madrid-destino.com) puede quedar apuntando a una edición antigua ya finalizada del mismo evento con la misma URL — usar mejor el enlace de programación del propio espacio (mataderomadrid.org/programacion/...) y verificar con búsqueda que el plan es real y vigente para la fecha exacta antes de publicar. El enlace oficial de "Títeres en El Retiro" en madrid.es está caído (404) — usar teatrotiteresretiro.es en su lugar.
 - Nombres: David, Ainhoa, Aniol (5 años).
