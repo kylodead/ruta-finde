@@ -20,7 +20,7 @@ Reglas fijas:
 Marca aquí los ya visitados para no repetir:
 
 - [x] Templo de Debod — templo egipcio trasladado, gratis, accesible — **visitado 29 ago 2026**
-- [ ] Palacio de Cristal (Retiro) — invernadero de cristal, gratis
+- [x] Palacio de Cristal (Retiro) — invernadero de cristal, gratis — **programado 13 sept 2026**
 - [x] Chamberí Ghost Station (Andén 0) — estación de metro fantasma de 1919, gratis, sáb/dom — **visitado en la edición 29-30 ago 2026**
 - [ ] Atocha Station Tropical Garden — jardín tropical dentro de la estación, gratis
 - [ ] Fountain of the Fallen Angel (Retiro) — única fuente pública dedicada al diablo
@@ -79,3 +79,7 @@ David y Ainhoa tienen un perfil cultural medio-alto: no todo tiene que ser "para
 - Lección: el enlace de venta de entradas de Madrid Destino (tienda.madrid-destino.com) puede quedar apuntando a una edición antigua ya finalizada del mismo evento con la misma URL — usar mejor el enlace de programación del propio espacio (mataderomadrid.org/programacion/...) y verificar con búsqueda que el plan es real y vigente para la fecha exacta antes de publicar. El enlace oficial de "Títeres en El Retiro" en madrid.es está caído (404) — usar teatrotiteresretiro.es en su lugar.
 - Corrección 3 sept 2026: al "verificar" el horario de Teatro de Títeres del Retiro, se cambió por error de 18:30 a 12:30 (dato incorrecto, quizás de una página archivada de 2023). La programación real vigente en teatrotiteresretiro.es/programacion/ para el 5-6 sept 2026 confirma 18:30. Lección: al corregir un dato ya publicado, contrastar con la página de programación vigente del propio espacio, no con búsquedas genéricas que pueden devolver eventos pasados con el mismo nombre.
 - Nombres: David, Ainhoa, Aniol (5 años).
+- 10-11 sept 2026: David avisa que el sábado 12 sept está bloqueado hasta las 17:00h (cumpleaños de la abuela, barbacoa) y que el finde lo pasan en casa/Madrid (Km 0 de siempre). Sábado: plan solo de tarde (Títeres del Retiro, 18:30, justo tras la barbacoa). Domingo libre entero.
+- David preguntó por planes en Madrid para la Diada de Catalunya (11 sept, viernes) — no se encontró ningún acto verificable y vigente en Madrid para esa fecha concreta (no confundir con los actos de Barcelona/Cataluña); se le informó directamente sin publicarlo en la ruta.
+- Tiempo 12-13 sept 2026: soleado, sin lluvia, Sáb 16–31°C / Dom 17–32°C — calor pero no extremo. Se priorizó mañana (Palacio de Cristal) y atardecer (Títeres, Quinta de los Molinos) frente al mediodía.
+- Cuidado con páginas de agregadores con fechas mezcladas de años distintos: al buscar radar de mercados medievales/romanos, una fuente devolvió el Mercado Romano de Galapagar con fecha de 2025 en vez de 2026 — descartado del radar por no poder verificar la edición 2026. Sí se confirmó con fuente fechada en 2026: Mercado Medieval de Majadahonda (17-19 sept) y Mercado Renacentista de Getafe (25-27 sept).
