@@ -22,8 +22,8 @@ Marca aquí los ya visitados para no repetir:
 - [x] Templo de Debod — templo egipcio trasladado, gratis, accesible — **visitado 29 ago 2026**
 - [x] Palacio de Cristal (Retiro) — invernadero de cristal, gratis — **programado 13 sept 2026**
 - [x] Chamberí Ghost Station (Andén 0) — estación de metro fantasma de 1919, gratis, sáb/dom — **visitado en la edición 29-30 ago 2026**
-- [ ] Atocha Station Tropical Garden — jardín tropical dentro de la estación, gratis
-- [ ] Fountain of the Fallen Angel (Retiro) — única fuente pública dedicada al diablo
+- [ ] Atocha Station Tropical Garden — jardín tropical dentro de la estación, gratis — **cerrado por obras (comprobado 17 sept 2026), no usar hasta que reabra**
+- [x] Fountain of the Fallen Angel (Retiro) — única fuente pública dedicada al diablo — **programado 19 sept 2026** (combinado con Títeres del Retiro, misma zona)
 - [x] Real Jardín Botánico — jardín bicentenario, entrada 4€ adultos/gratis menores de 18 — **programado 6 sept 2026**
 - [ ] San Antonio de los Alemanes — iglesia con frescos, "capilla Sixtina de Madrid"
 - [ ] Dolmen de Dalí — monumento urbano diseñado por Dalí
@@ -38,6 +38,7 @@ Fuente: [Atlas Obscura — Madrid](https://www.atlasobscura.com/things-to-do/mad
 
 - **Real Mercado del Siglo de Oro — Navalcarnero** (32 km, ~35 min): anual a finales de agosto. 2026: 28–30 agosto. Entrada libre.
 - **Mercado Medieval de Fuenlabrada** (Plaza de España): 4–6 septiembre 2026. Entrada libre. ~14 km de Km 0.
+- **Mercado Medieval de Majadahonda** (Gran Vía y Jardinillos, fiestas patronales): 17–19 septiembre 2026, sáb 11:00–00:00, +90 puestos, zona infantil y tren turístico gratis. Entrada libre. ~20 min en coche. **Usado en la edición 19-20 sept 2026 (sábado mañana).**
 - **Mercado Goyesco — Fiestas del Motín de Aranjuez**: 3–6 septiembre 2026.
 - **VI Feria Medieval "El Caballero de Ambite"**: 28–29 agosto 2026.
 - **Mercado Medieval de Bustarviejo**: 28–29 agosto 2026.
@@ -86,3 +87,7 @@ David y Ainhoa tienen un perfil cultural medio-alto: no todo tiene que ser "para
 - David preguntó por planes en Madrid para la Diada de Catalunya (11 sept, viernes) — no se encontró ningún acto verificable y vigente en Madrid para esa fecha concreta (no confundir con los actos de Barcelona/Cataluña); se le informó directamente sin publicarlo en la ruta.
 - Tiempo 12-13 sept 2026: soleado, sin lluvia, Sáb 16–31°C / Dom 17–32°C — calor pero no extremo. Se priorizó mañana (Palacio de Cristal) y atardecer (Títeres, Quinta de los Molinos) frente al mediodía.
 - Cuidado con páginas de agregadores con fechas mezcladas de años distintos: al buscar radar de mercados medievales/romanos, una fuente devolvió el Mercado Romano de Galapagar con fecha de 2025 en vez de 2026 — descartado del radar por no poder verificar la edición 2026. Sí se confirmó con fuente fechada en 2026: Mercado Medieval de Majadahonda (17-19 sept) y Mercado Renacentista de Getafe (25-27 sept).
+
+- 17 sept 2026: David confirma sin planes fijados y finde en Madrid (Km 0 de siempre); pide expresamente plantear teatro de marionetas para el sábado. Se usó de nuevo Teatro de Títeres de El Retiro (obra distinta a la de la semana pasada: "El panadero y el diablo", Troupe Trifulka, 18:30, gratis con reserva obligatoria — entradas se sueltan los viernes 10:00, máx. 4/persona) — no se considera repetición porque el espectáculo cambia cada semana y David lo pidió expresamente. Combinado con la Fuente del Ángel Caído, en la misma zona del Retiro, como punto Atlas Obscura de la semana (Atocha Tropical Garden descartado por estar cerrado por obras).
+- 17 sept 2026: FLIC Festival (Espacio Abierto, Quinta de los Molinos, 19-20 sept, 3-12 años) descartado por precio: 6€/persona, supera el máximo de 5€ de la regla fija. Buena opción para el futuro si baja de precio o hay sesión gratuita.
+- 17 sept 2026: domingo cubierto con la Fiesta de la Movilidad (Semana Europea de la Movilidad) en el eje Atocha-Cibeles/Paseo del Prado, 11:00-18:00, gratis, con castillos hinchables, pintacaras, yincana de educación vial y clases de patinaje gratis 11-13h — se recomendó ir a primera hora por el calor.
