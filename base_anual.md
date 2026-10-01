@@ -25,10 +25,10 @@ Marca aquí los ya visitados para no repetir:
 - [ ] Atocha Station Tropical Garden — jardín tropical dentro de la estación, gratis — **cerrado por obras (comprobado 17 sept 2026), no usar hasta que reabra**
 - [x] Fountain of the Fallen Angel (Retiro) — única fuente pública dedicada al diablo — **programado 19 sept 2026** (combinado con Títeres del Retiro, misma zona)
 - [x] Real Jardín Botánico — jardín bicentenario, entrada 4€ adultos/gratis menores de 18 — **programado 6 sept 2026**
-- [ ] San Antonio de los Alemanes — iglesia con frescos, "capilla Sixtina de Madrid"
+- [ ] San Antonio de los Alemanes — iglesia con frescos, "capilla Sixtina de Madrid" — descartado 24 sept por precio (12€ con audioguía, supera el máximo de 5€)
 - [ ] Dolmen de Dalí — monumento urbano diseñado por Dalí
 - [ ] Kiosko de Horchata Miguel y José — último kiosco tradicional de horchata
-- [ ] Monasterio del Corpus Christi — monasterio de clausura, venden dulces las monjas
+- [x] Monasterio del Corpus Christi (Convento de las Carboneras) — monasterio de clausura, venden dulces las monjas por torno — **programado 3 oct 2026** (torno 9:30-13:00, entrada a la iglesia libre)
 - [ ] Museo Reverte Coma — museo forense (valorar edad de Aniol antes de llevarlo)
 - [ ] Mapa de Juan de la Cosa (Museo Naval) — mapa más antiguo con América
 
@@ -95,3 +95,8 @@ David y Ainhoa tienen un perfil cultural medio-alto: no todo tiene que ser "para
 - 24 sept 2026: David confirma sin planes fijados y finde en Madrid (Km 0 de siempre). Tiempo 26-27 sept: soleado, sin lluvia, Sáb 19–33°C / Dom 20–30°C — calor, sin extremo. Se priorizó mañana ambos días. Sábado: Mercado Renacentista de Getafe + QKFest (espectáculos de calle, circo, juegos infantiles, gratis, sin reserva) — 20 min en coche, dentro de radio. Domingo: Museo Naval (Mapa de Juan de la Cosa, punto Atlas Obscura de la semana), entrada con donativo libre, sin reserva, interior con aire acondicionado — buena opción con calor. Ninguno de los dos planes requiere reserva anticipada, así que no hizo falta banner de "Reservar ya" esta edición.
 - 24 sept 2026: San Antonio de los Alemanes (candidato pendiente de la lista) descartado por precio: entrada 12€ con audioguía, supera el máximo de 5€ de la regla fija. No usar salvo que baje el precio o haya jornada de puertas abiertas.
 - 24 sept 2026: radar actualizado con Feria de Otoño del Libro Viejo y Antiguo (Paseo de Recoletos, hasta 12 oct) y Mercado de Motores (Museo del Ferrocarril, 10-11 oct).
+
+- 1 oct 2026: David confirma sin planes fijados y finde en Madrid (Km 0 de siempre). Previsión de lluvia fuerte ambos días (sáb 90% / dom 80%, 15-23°C) — se priorizaron planes cortos, sobre todo al aire libre pero combinables con una parada cubierta, evitando planes de interior de pago que superaran el presupuesto (se descartó La Odisea, experiencia inmersiva en Matadero: 16,90€ niño / 19,90€ adulto, supera el máximo de 5€, aunque la recomendación de edad "a partir de 5 años" encajaba bien). Sábado: Convento de las Carboneras (torno de dulces de monjas de clausura, punto Atlas Obscura de la semana) + espectáculo infantil gratuito "Olivia quiere ser astronauta" del programa municipal Plazas Vivas en la Corrala (Lavapiés). Domingo: cuentacuentos familiar gratuito "Carlota y sus mascotas" en Plaza Santa Ana, también Plazas Vivas. Ninguno de los dos días requiere reserva. Se descartó Teatro de Títeres del Retiro por ser al aire libre sin ninguna cobertura y con la lluvia prevista.
+- 1 oct 2026: Gala Saniclown (Teatro Circo Price, 3-4 oct, 18:00) descartada por precio: entradas desde 10€, supera el máximo de 5€. Buena opción para el futuro si hay tarifa reducida.
+- 1 oct 2026: fuente descubierta para refrescar cada semana — el programa municipal "Plazas Vivas" (actividades infantiles y familiares gratuitas en plazas de varios distritos, los fines de semana): triptico oficial en diario.madrid.es, buscar "Triptico PlazasVivas" + temporada. Buena fuente adicional de planes gratis con niños, especialmente útil para completar huecos de tarde.
+- 1 oct 2026: radar actualizado — se mantiene Mercado de Motores (10-11 oct) y Feria de Otoño del Libro Viejo (hasta 12 oct, ya en su recta final).
